@@ -22,7 +22,7 @@ dashboard.section.buttons.val = {
 }
 
 -- Mensaje en el pie de página
-dashboard.section.footer.val = "🎉 NvChad + Alpha configurado 🎉"
+dashboard.section.footer.val = "I really want to stay at your house"
 
 -- Configuración final
 alpha.setup(dashboard.config)
