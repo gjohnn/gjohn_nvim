@@ -40,6 +40,4 @@ git pull
 You can modify this configuration by editing the files in `~/.config/nvim/lua/custom/`.
 
 ## Contact
-If you have any questions or suggestions, feel free to open an issue in this repository.
-
-Enjoy using Neovim! 🚀
+If you have any questions or suggestions, feel free to open an issue in this repository!!!
